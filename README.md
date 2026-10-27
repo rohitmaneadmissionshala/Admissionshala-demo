@@ -1,3 +1,3 @@
 # Admissionshala-Demo
 This is my first Git repository
-Author - Rohit Mane
+Author - Rohit (admissionshala)
